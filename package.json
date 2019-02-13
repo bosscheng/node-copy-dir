@@ -1,0 +1,8 @@
+{
+  "name": "node-copy-dir",
+  "version": "1.0.0",
+  "main": "lib/copy-dir.js",
+  "dependencies": {
+    "fs-extra": "7.0.1"
+  }
+}
